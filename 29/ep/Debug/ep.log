@@ -1,5 +1,0 @@
-﻿  ep.cpp
-C:\Users\Chuchik\source\repos\ep\ep.cpp(33,8): warning C4101: letter: неиспользованная локальная переменная
-     Создается библиотека C:\Users\Chuchik\source\repos\ep\Debug\ep.lib и объект C:\Users\Chuchik\source\repos\ep\Debug\ep.exp
-LINK : warning LNK4217: Символ "_writeTo", определенный в "S.obj", импортирован "ep.obj" в функции ""public: void __thiscall Fail::vect(class std::vector<char,class std::allocator<char> >)" (?vect@Fail@@QAEXV?$vector@DV?$allocator@D@std@@@std@@@Z)".
-  ep.vcxproj -> C:\Users\Chuchik\source\repos\ep\Debug\ep.exe
