@@ -1,0 +1,4 @@
+﻿  Probnik.cpp
+C:\Users\Chuchik\source\repos\Probnik\Probnik.cpp(102): warning C4715: Password::Entrance: значение возвращается не при всех путях выполнения
+C:\Users\Chuchik\source\repos\Probnik\Probnik.cpp(134): warning C4715: Password::Sign_up: значение возвращается не при всех путях выполнения
+  Probnik.vcxproj -> C:\Users\Chuchik\source\repos\Probnik\Debug\Probnik.exe
